@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center">FileDownloadPlaceFromPocoM5</h1>
-  <p align="center"><strong>Tempat penyimpanan file dari ponsel Poco M5 untuk digunakan oleh semua AI.</strong></p>
+  <h1 align="center">ArsipMotionKita</h1>
+  <p align="center"><strong>Tempat menyimpan video motion graphics dan voice over untuk MotionKita. Untuk digunakan oleh semua AI.</strong></p>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## Tentang Repo Ini
 
-Repo **FileDownloadPlaceFromPocoM5** adalah repo **publik** yang berisi file-file dari ponsel Poco M5. File di dalamnya disediakan khusus agar bisa diambil atau dibaca oleh AI.
+Repo **ArsipMotionKita** adalah repo **publik** yang berisi file-file dari ponsel Poco M5. File di dalamnya disediakan khusus agar bisa diambil atau dibaca oleh AI.
 
 ## Aturan Penggunaan
 
