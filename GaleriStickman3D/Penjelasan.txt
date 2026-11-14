@@ -1,0 +1,6 @@
+Video referensi (Penjelasan.mp4) ini menunjukkan pengalaman, kesan, dan suasana yang akan dirasakan oleh penonton saat menonton video hasil buatan dari skill claude-animated-shorts (dan karakter-2d-dunia-3d-vednnayr nantinya).
+
+Dari video ini, Claude harus memahami dan menyimpulkan: "Oh, video referensi ini bisa dibuat dengan menggunakan skill claude-animated-shorts, dan nantinya video dengan gaya yang sama juga bisa dibuat menggunakan skill karakter-2d-dunia-3d-vednnayr."
+
+Catatan:
+Video Ricky Shorts menunjukkan bahwa videonya dibuat menggunakan skill claude-animated-shorts (dan karakter-2d-dunia-3d-vednnayr nantinya).
